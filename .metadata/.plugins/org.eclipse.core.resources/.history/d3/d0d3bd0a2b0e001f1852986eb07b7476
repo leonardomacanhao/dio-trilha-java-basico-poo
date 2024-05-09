@@ -1,0 +1,17 @@
+package com.celular;
+
+import com.celular.iPhone.IPhone;
+
+/*
+ * 
+ * Classe criada para testar a classe IPhone e as implementaçoes de suas interfaces
+ * 
+ * 
+ * 
+ * */
+public class TesteiPhone extends IPhone {
+	
+	IPhone iPhone = new IPhone();
+	
+
+}

@@ -1,0 +1,9 @@
+package com.iPhone.apps.navegador;
+
+public interface INavegador {
+
+	public void exibirPagina();
+	public void adicionarNovaAba();
+	public void atualizarPagina();
+	
+}

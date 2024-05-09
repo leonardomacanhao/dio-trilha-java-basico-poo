@@ -1,0 +1,22 @@
+package com.iPhone.apps.musicPlayer;
+
+public class MusicPlayer implements IMusicPlayer{
+
+	@Override
+	public void tocar() {
+		System.out.println("Iniciando Música");
+		
+	}
+
+	@Override
+	public void pausar("Pausando Música...") {
+		
+	}
+
+	@Override
+	public void selecionarMusica("Selecionando Música...") {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

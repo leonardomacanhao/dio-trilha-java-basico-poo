@@ -1,0 +1,10 @@
+package com.iPhone.main;
+
+public class IPhone {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

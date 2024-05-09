@@ -1,0 +1,5 @@
+package com.iPhone.apps.chamadas;
+
+public interface IChamadas {
+
+}
